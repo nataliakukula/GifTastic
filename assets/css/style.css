@@ -1,0 +1,53 @@
+body{
+    background-image: url("../images/spiral.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-color: black;
+    align-content: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin: 7px; 
+}
+
+h4{
+    text-align: center;
+    color: white;
+    margin: 7px; 
+}
+.label{
+    color: white;
+}
+
+#favorites {
+    border: 1px solid red;
+}
+
+#gif-input {
+    width: 100%;
+}
+
+.rounded {
+    margin: 10px;
+    margin-right: 25px;
+    display: block;
+}
+
+.musician {
+    margin: 2px;
+}
+
+.label {
+    margin: 5px;
+}
+
+#submit-button {
+    margin: 7px;
+}
+
+.fav-button {
+    font-size: 10px;
+}
