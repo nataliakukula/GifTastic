@@ -1,11 +1,11 @@
 # GifTastic
 
-Game: Trivia Chicago \
+Game: GifTastic \
 Created for: Northwestern Coding Bootcamp \
 Developer: Natalia Kukula \
-Deployment Date:  October 4, 2018 \
-Published: GitHub <https://nataliakukula.github.io/TriviaGame/> \
-Built with: HTML5, CSS3, Bootstrap, Javascript & jQuery
+Deployment Date:  October 10, 2018 \
+Published: GitHub <https://nataliakukula.github.io/GifTastic/> \
+Built with: HTML5, CSS3, Bootstrap, AJAX, Javascript & jQuery
 
 ## Summary: 
 
